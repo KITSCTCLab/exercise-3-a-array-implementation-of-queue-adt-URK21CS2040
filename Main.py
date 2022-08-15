@@ -129,4 +129,3 @@ if is_palindrome:
     print("The word, " + text + ", is a palindrome.")
 else:
     print("The word, " + text + ", is not a palindrome.")
-Footer
